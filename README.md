@@ -1,0 +1,2 @@
+# Devops-repo
+Devops practices
